@@ -103,6 +103,9 @@ html, body {
     padding-bottom: 30px;
     color: white;
     padding: .25em 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 .main-footer-container {
@@ -340,4 +343,10 @@ html, body {
     display: block;
     margin: 40px auto 80px auto;
     font-size: 1.75em;
+}
+
+.copy-right {
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
 }
